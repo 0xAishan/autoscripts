@@ -17,7 +17,7 @@ The `virtualdisk.sh` script is a command-line tool for creating and managing vir
 ```bash
 wget -qO- https://raw.githubusercontent.com/0xAishan/autoscripts/refs/heads/main/utils/virtualdisk.sh | sudo bash -s -- -p /mnt -s 8
 ```
-** or using curl**
+**or using curl**
 ```bash
 curl -s https://raw.githubusercontent.com/0xAishan/autoscripts/refs/heads/main/utils/virtualdisk.sh | sudo bash -s -- -p /mnt -s 8
 ```
